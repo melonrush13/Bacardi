@@ -1,4 +1,4 @@
-# Bacardi StarTindere App
+# Bacardi StarTinder App
 
 ## Problem
 
